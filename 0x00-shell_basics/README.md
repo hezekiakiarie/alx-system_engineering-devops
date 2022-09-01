@@ -1,1 +1,1 @@
-DIE TRYING
+I am not a quiter
