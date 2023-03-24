@@ -1,6 +1,4 @@
-# Installs puppet-lint, version 2.1.1
-
-package { 'puppet-lint':
-  ensure   => '2.1.1',
-  provider => 'gem',
+exec { 'killmenow':
+    path    => ['/usr/bin', '/sbin', '/bin', '/usr/sbin'],
+    command => 'pkill "killmenow"'
 }
