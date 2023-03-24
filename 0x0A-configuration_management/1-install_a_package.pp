@@ -1,4 +1,6 @@
-exec { 'killmenow':
-    path    => ['/usr/bin', '/sbin', '/bin', '/usr/sbin'],
-    command => 'pkill "killmenow"'
+# Installs flask, version 2.1.1
+
+package { ' flask ':
+  ensure   => '2.1.0',
+  provider => 'pip3',
 }
