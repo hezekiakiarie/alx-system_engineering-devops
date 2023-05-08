@@ -7,15 +7,13 @@
 
 ## Authors
 
-* Heimer Rojas Castellanos
+* Hezekia Mwangi
 
 ## Status
 
 Complete
 
 ## Summary
-
-Frank video website down for 1 hour 41 minutes.
 
 The event started at 16:51 UTC and ends at 18:30 UTC afecting 100% of the service.
 
